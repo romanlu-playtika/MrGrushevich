@@ -123,6 +123,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosionMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 768
   explosionDelay: 2
   explosionRadius: 1
