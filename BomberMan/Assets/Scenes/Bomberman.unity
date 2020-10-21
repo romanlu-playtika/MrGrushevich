@@ -8298,10 +8298,20 @@ PrefabInstance:
       propertyPath: bombParentTransform
       value: 
       objectReference: {fileID: 1171899293}
+    - target: {fileID: 2836582574718086833, guid: c7776e5837092411eaebc6c1884cd627,
+        type: 3}
+      propertyPath: explosionMask.m_Bits
+      value: 768
+      objectReference: {fileID: 0}
     - target: {fileID: 2836582574718086839, guid: c7776e5837092411eaebc6c1884cd627,
         type: 3}
       propertyPath: m_Name
       value: BomberMan
+      objectReference: {fileID: 0}
+    - target: {fileID: 2836582574718086839, guid: c7776e5837092411eaebc6c1884cd627,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 2836582576004999830, guid: c7776e5837092411eaebc6c1884cd627,
         type: 3}
