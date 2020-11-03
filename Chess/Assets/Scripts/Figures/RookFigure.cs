@@ -7,6 +7,7 @@ public class RookFigure : BaseFigure
 
     public override void Move()
     {
-       
+        Debug.Log($"{this} tries to move");
+        base.Move();
     }
 }

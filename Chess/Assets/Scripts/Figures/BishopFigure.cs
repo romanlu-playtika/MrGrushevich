@@ -6,6 +6,7 @@ public class BishopFigure : BaseFigure
 {
     public override void Move()
     {
-        throw new System.NotImplementedException();
+        Debug.Log($"{this} tries to move");
+        base.Move();
     }
 }

@@ -12,8 +12,9 @@ GameObject:
   - component: {fileID: 5765587422555155246}
   - component: {fileID: 5774932746886573330}
   - component: {fileID: 5934329768324777112}
+  - component: {fileID: -8855351651438936455}
   m_Layer: 0
-  m_Name: PawnLight
+  m_Name: PawnWhite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -95,3 +96,17 @@ MonoBehaviour:
   figureData: {fileID: 11400000, guid: 7cac39b6dfe1e4150a8c64eaa5212f39, type: 2}
   figureMeshRenderer: {fileID: 5774932746886573330}
   figureMeshFilter: {fileID: 5765587422555155246}
+--- !u!64 &-8855351651438936455
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5797669534893530008}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 1ae3b6cad3254b848942cea678f244c7, type: 3}

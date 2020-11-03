@@ -25,6 +25,7 @@
             <e p="QueenFigure.cs" t="Include" />
             <e p="RookFigure.cs" t="Include" />
           </e>
+          <e p="MousePicker.cs" t="Include" />
           <e p="SO" t="Include">
             <e p="ChessData.cs" t="Include" />
             <e p="ChessPositionsData.cs" t="Include" />

@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 5765587422555155246}
   - component: {fileID: 5774932746886573330}
   - component: {fileID: 2368834348752647818}
+  - component: {fileID: 2409028857131909874}
   m_Layer: 0
   m_Name: KingWhite
   m_TagString: Untagged
@@ -95,3 +96,17 @@ MonoBehaviour:
   figureData: {fileID: 11400000, guid: 5812353f4536c4cc4a3bae99f69ef3c1, type: 2}
   figureMeshRenderer: {fileID: 5774932746886573330}
   figureMeshFilter: {fileID: 5765587422555155246}
+--- !u!64 &2409028857131909874
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5797669534893530008}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300000, guid: 1ae3b6cad3254b848942cea678f244c7, type: 3}

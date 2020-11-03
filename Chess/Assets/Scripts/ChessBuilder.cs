@@ -1,4 +1,5 @@
 ﻿
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ChessBuilder : MonoBehaviour
@@ -7,21 +8,17 @@ public class ChessBuilder : MonoBehaviour
 
     private void Awake()
     {
-        var whiteRoot = new GameObject("WhiteRoot");
-        var blackRoot = new GameObject("BlackRoot");
-        for (int i = 0; i < chessData.WhiteFigures.Count; i++)
+        BuildFigures("WhiteRoot", chessData.WhiteFigures, chessData.WhitePosition);
+        BuildFigures("BlackRoot", chessData.BlackFigures, chessData.BlackPosition);
+    }
+
+    private void BuildFigures(string rootName, List<BaseFigure> baseFigures, ChessPositionsData positionsData)
+    {
+        var root = new GameObject(rootName);
+        for (int i = 0; i < baseFigures.Count; i++)
         {
-            var figure = Instantiate(chessData.WhiteFigures[i], whiteRoot.transform);
-            figure.transform.position = chessData.WhitePosition.Positions[i];
-            if (figure)
-            {
-                figure.Initialize();
-            }
-        }
-        for (int i = 0; i < chessData.BlackFigures.Count; i++)
-        {
-            var figure = Instantiate(chessData.BlackFigures[i], blackRoot.transform);
-            figure.transform.position = chessData.BlackPosition.Positions[i];
+            var figure = Instantiate(baseFigures[i], root.transform);
+            figure.transform.position = positionsData.Positions[i];
             if (figure)
             {
                 figure.Initialize();
