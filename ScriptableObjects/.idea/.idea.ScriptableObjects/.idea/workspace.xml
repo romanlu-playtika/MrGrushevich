@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f9244755-90d6-456e-9eca-524e7672f842" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimeCharacter.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimeCharacter/AnimeCharacterData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimeCharacter/AnimeCharacterData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundButton.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundConfig.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroup.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroupUI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroupUI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundsPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Sound/SoundsPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/CharacterInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/CharacterInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/FloatVariable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/FloatVariable.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/InputController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/InputController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/PlayerCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StrangeGame/PlayerCharacter.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/.idea/.idea.BomberMan/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/.idea/.idea.BomberMan/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/.idea/.idea.BomberMan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/.idea/.idea.BomberMan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/StateCache/Hierarchy/0c8f60-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/StateCache/Hierarchy/0c8f60-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/StateCache/SceneView/7bfbd7-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/StateCache/SceneView/7bfbd7-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler4.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/Library/shadercompiler-UnityShaderCompiler4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BomberMan/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BomberMan/obj/Debug/Assembly-CSharp-firstpass.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StrangeGame/FloatReference.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StrangeGame/CharacterBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimeCharacter/AnimeCharacterController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Events/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Events/GameEventsListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SwordsUIPreview.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SwordData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimeCharacter/AnimeCharacterData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnimeCharacter/AnimeCharacterController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/CharacterInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/PlayerCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/EnemyCharacter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/CharacterBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/FloatVariable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundGroupUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound/SoundsPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Swords/Events/GameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StrangeGame/FloatReference.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jljmwgCpjDBXGv6rwHy2cpyDk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9244755-90d6-456e-9eca-524e7672f842" name="Default Changelist" comment="" />
+      <created>1604385735631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604385735631</updated>
+      <workItem from="1604385738939" duration="14774000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="529" y="157" key="RiderGenerateDialog" timestamp="1604391317318">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="529" y="157" key="RiderGenerateDialog/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1604391317318" />
+    <state x="380" y="156" width="672" height="678" key="search.everywhere.popup" timestamp="1604389644668">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="380" y="156" width="672" height="678" key="search.everywhere.popup/0.23.1440.812/1440.23.1920.1057@0.23.1440.812" timestamp="1604389644668" />
+  </component>
+</project>
