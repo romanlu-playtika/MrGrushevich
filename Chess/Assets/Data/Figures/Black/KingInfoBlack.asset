@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b5570a2bb397424698dd7fb617ab7b1, type: 3}
+  m_Name: KingInfoBlack
+  m_EditorClassIdentifier: 
+  figureName: KingBlack
+  figureMesh: {fileID: 4300000, guid: 0d4dc18442ed9d14698239a5a964f27f, type: 3}
+  figureMaterial: {fileID: 2100000, guid: 5a3ab2601b4968341a959d89a206c835, type: 2}
+  figureType: 1
