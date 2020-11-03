@@ -20,30 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25fb526d-2143-4e7e-bf26-1b86f193c4f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/BishopBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/BishopBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/KingBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/KingBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/KnightBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/KnightBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/PawnBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/PawnBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/QueenBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/QueenBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Black/RookBlack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Black/RookBlack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/BishopWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/BishopWhite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/KingWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/KingWhite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/KnightWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/KnightWhite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/PawnWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/PawnWhite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/QueenWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/QueenWhite.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/White/RookWhite.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/White/RookWhite.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Chess.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Chess.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChessBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChessBuilder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/BaseFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/BaseFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/BishopFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/BishopFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/KingFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/KingFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/KnightFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/KnightFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/PawnFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/PawnFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/QueenFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/QueenFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Figures/RookFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Figures/RookFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604404080297</updated>
-      <workItem from="1604404085664" duration="10928000" />
+      <workItem from="1604404085664" duration="11278000" />
     </task>
     <servers />
   </component>
