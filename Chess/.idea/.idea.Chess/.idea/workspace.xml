@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25fb526d-2143-4e7e-bf26-1b86f193c4f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Chess.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Chess.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ChessBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ChessBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604404080297</updated>
-      <workItem from="1604404085664" duration="11278000" />
+      <workItem from="1604404085664" duration="12559000" />
     </task>
     <servers />
   </component>

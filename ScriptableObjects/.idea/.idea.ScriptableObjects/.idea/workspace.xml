@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9244755-90d6-456e-9eca-524e7672f842" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Chess/Assets/Scenes/Chess.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/Assets/Scenes/Chess.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chess/Assets/Scripts/ChessBuilder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/Assets/Scripts/ChessBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chess/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ScriptableObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ScriptableObjects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
