@@ -7,6 +7,16 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Cartoon Heroes" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="SetCharacter" t="Include">
+              <e p="Editor" t="Include">
+                <e p="SetCharacterEditor.cs" t="Include" />
+              </e>
+              <e p="SetCharacter.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="GameAnalytics" t="Include">
           <e p="Editor" t="Include">
             <e p="GA_AssetPostprocessor.cs" t="Include" />
@@ -113,6 +123,8 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="CharacterSelect.cs" t="Include" />
+          <e p="CustomImageData.cs" t="Include" />
           <e p="EffectButton.cs" t="Include" />
           <e p="EffectsData.cs" t="Include" />
           <e p="EffectsPlayer.cs" t="Include" />

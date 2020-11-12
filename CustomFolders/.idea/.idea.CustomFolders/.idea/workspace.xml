@@ -20,8 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ee5697c-d7d2-449b-a8ef-e918360b830e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Chess/.idea/.idea.Chess/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chess/.idea/.idea.Chess/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ScriptableObjects/.idea/.idea.ScriptableObjects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomFolders/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomFolders/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomFolders/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomFolders/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cartoon Heroes/Character Prefabs/Female/Female A.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cartoon Heroes/Character Prefabs/Female/Female A.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cartoon Heroes/Character Prefabs/Male/Male A.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Cartoon Heroes/Character Prefabs/Male/Male A.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/EffectsLoader.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/EffectsLoader.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ImageData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ImageData.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomImageData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EffectButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Unity/Tanks/Assets/Scripts/Data/DataSaver.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ImageData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -48,13 +55,15 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/NoiseGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TestDataPath.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ImageData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StreamingAssetsLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/IconInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ResourcesLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EffectsData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EffectButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EffectsPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CharacterSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ImageData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomImageData.cs" />
       </list>
     </option>
   </component>
@@ -98,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605180946621</updated>
-      <workItem from="1605180950079" duration="5995000" />
+      <workItem from="1605180950079" duration="9212000" />
     </task>
     <servers />
   </component>
