@@ -27,14 +27,15 @@ public class CharacterSelect : MonoBehaviour
 
     public void ChangeTexture()
     {
-        Debug.Log("Getting");
         var directoryInfo = new DirectoryInfo(Application.streamingAssetsPath);
 
-        var allFiles = directoryInfo.GetFiles("*.tga");
+        var allFiles = directoryInfo.GetFiles("*.*");
         foreach (var fileInfo in allFiles)
         {
-            Debug.Log($"File name: {fileInfo.Name}");
-
+            if (fileInfo.Name.Contains("meta"))
+            {
+                continue;
+            }
             var bytes = File.ReadAllBytes(fileInfo.FullName);
             var texture2d = new Texture2D(1, 1);
             texture2d.LoadImage(bytes);
@@ -44,27 +45,22 @@ public class CharacterSelect : MonoBehaviour
                 {
                     femaleHairTextures.Add(texture2d);
                 }
-                else if (fileInfo.Name.Contains("Clothes"))
+                else if (fileInfo.Name.Contains("Torso"))
                 {
                     femaleClothesTextures.Add(texture2d);
                 }
             }
-            if (fileInfo.Name.Contains("Male"))
+            else if (fileInfo.Name.Contains("Male"))
             {
                 if (fileInfo.Name.Contains("Hair"))
                 {
                     maleHairTextures.Add(texture2d);
                 }
-                else if (fileInfo.Name.Contains("Clothes"))
+                else if (fileInfo.Name.Contains("Torso"))
                 {
                     maleClothesTextures.Add(texture2d);
                 }
             }
-        }
-
-        foreach (var item in maleHairTextures)
-        {
-            Debug.Log($"{item.name}");
         }
     }
 }
